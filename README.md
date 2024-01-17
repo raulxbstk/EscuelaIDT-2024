@@ -1,2 +1,80 @@
-# EscuelaIDT-2024
-Escuela de verano 2024 del Instituto Universitario de Investigación y Desarrollo Tecnológico (IDT) de la Universidad Tecnológica Metropolitana (UTEM)
+# Escuela de Verano IDT-UTEM: Introducción a la Quimioinformática y Transcriptómica
+
+Esta Escuela de Verano IDT-UTEM está orientada a estudiantes de pregrado y postgrado, afines a las áreas químicas y biológicas, que deseen aprender aspectos generales de métodos computacionales relacionados a la Quimioinformática o la Transcriptómica. 
+
+En el curso de Introducción a la Quimioinformática se abordarán aspectos teóricos y prácticos de las metodologías de docking (acoplamiento molecular), Dinámica molecular clásica y QSAR.  Estas herramientas se relacionan principalmente con la evaluación de interacciones proteína-ligando y la predicción de propiedades de interés en base a descriptores moleculares. El curso será dictado por los académicos Dr. Matías Zúñiga y Dr. Juan Castillo, pertenecientes al Instituto Universitario de Investigación y Desarrollo Tecnológico (IDT-UTEM) y al programa de Doctorado en Informática Aplicada a Salud y Medio Ambiente, de la Universidad Tecnológica Metropolitana.
+
+El curso de Introducción a la Transcriptómica fue diseñado para brindar conocimientos básicos y habilidades prácticas en el análisis de datos transcriptómicos. El curso combina sesiones teóricas con ejercicios prácticos, asegurando que los asistentes adquieran un entendimiento profundo de las técnicas de análisis transcriptómico y sus aplicaciones. Es una oportunidad valiosa para mejorar la experiencia en el estudio de la expresión génica y los transcriptomas utilizando datos de secuenciación de próxima generación. El curso será dictado por el académico Dr. Raúl Arias Carrasco, perteneciente al Instituto Universitario de Investigación y Desarrollo Tecnológico (IDT-UTEM) y al programa de Doctorado en Informática Aplicada a Salud y Medio Ambiente, de la Universidad Tecnológica Metropolitana.
+
+Estos cursos comprenden 3 jornadas de 14:00 a 18:00 hrs y se realizarán en forma paralela.
+
+
+## Organizadores:
+
+- [Dr. Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana - UTEM (Chile).
+- [Dr. Juan Castillo-Garit](https://scholar.google.com/citations?user=R2VZGPoAAAAJ&hl=es), Universidad Tecnológica Metropolitana - UTEM (Chile).
+- [Dr. Matias Zuñiga-Bustos](https://scholar.google.com/citations?user=_BUA0-YAAAAJ&hl=es), Universidad Tecnológica Metropolitana - UTEM (Chile).
+
+
+## Material de formación práctica en bioinformática
+
+A continuación, encontrará los enlaces a los vídeos previos al curso y a los cuadernos de Google Colab para los módulos prácticos.
+
+
+### Material pre-escuelta:
+
+- [Introducción a R para Biólogxs:](https://melbournebioinformatics.github.io/r-intro-biologists/intro_r_biologists.html)
+_Este curso ha sido diseñado para presentar R a los biólogos, mostrando algunos conceptos básicos y también algunas cosas poderosas que R puede hacer (cosas que serían más difíciles de hacer con Excel).._
+- [Linux para Biólogxs:](https://github.com/ssbcb/Linux-for-biologists-workshop/blob/main/Introduction-to-linux-101/Introduction-to-linux-101.md)
+_Este material cubre los conceptos básicos de shell scripting, una poderosa herramienta para automatizar tareas y procesamiento de datos en bioinformática._
+- [Python para Biólogxs:](https://www.pythonforbiologists.org/)
+_Este material proporciona una colección de episodios con vídeos, códigos y ejercicios para aprender los conceptos básicos del lenguaje de programación Python a través de ejemplos genómicos._
+- [Comenzando con Google Colaboratorio:](https://www.youtube.com/watch?v=inN8seMm7UI)
+_Este video proporciona una comprensión básica de Google Colaboratory o Google Colab y su estructura de cuadernos, que es la plataforma informática interactiva basada en web que usaremos junto con nuestro trabajo práctico de bioinformática._
+
+
+### Módulos practicos para Quimioinformática:
+
+XXXX
+
+
+### Módulos practicos para Transcriptómica:
+
+- [Notebook 01 - Filtrando la calidad de datos RNA-seq]():
+_Este cuaderno colaborativo guía a los investigadores en la evaluación de la calidad de los datos de secuenciación de ARN. A través de FastQC, MultiQC y Fastp, evalúa rápidamente la integridad de los datos, detecta anomalías y refina los datos para su análisis posterior. Las instrucciones paso a paso y los fragmentos de código permiten a los usuarios aplicar estas herramientas de manera eficiente, lo que garantiza una calidad sólida de los datos para diversos experimentos de secuenciación de ARN. Este recurso, dirigido a investigadores y bioinformáticos, agiliza el análisis de control de calidad y mejora la confiabilidad de los datos, vital para interpretaciones biológicas precisas._
+
+- [Notebook 02 - Reconstrucción de transcriptoma _de novo_]()
+ _Este cuaderno de Google Colab sirve como guía completa para la reconstrucción del transcriptoma de novo a partir de lecturas de secuenciación de ARN y muestra la metodología que utiliza SOAPdenovo-Trans. Si bien se utiliza un subconjunto de lecturas de secuenciación de Phyllomedusa Bahiana como ejemplo, este recurso aclara todos los pasos necesarios para reconstruir un transcriptoma sin depender de un genoma de referencia.._
+
+- [Notebook 03 - Reconstrucción de transcriptoma basado en genome de referencia]()
+ _Este cuaderno de Google Colab actúa como un tutorial completo para la reconstrucción del transcriptoma basado en un genoma de referencia. Proporciona una exploración en profundidad de la metodología, empleando herramientas como Hisat2 para mapeo de lectura y samtools para manipulación de datos. Los participantes obtendrán experiencia práctica en todo el proceso, desde mapear lecturas de secuenciación hasta reconstruir transcripciones usando stringTie y, en última instancia, cuantificar los niveles de expresión de genes y transcripciones con featureCounts._
+
+- [Notebook 04.1 - Annotación Funcional]() 
+_Este cuaderno de Google Colab proporciona un tutorial detallado para la anotación funcional de genes utilizando la herramienta Diamond y la identificación de grupos ortólogos mediante OrthoFinder. Los investigadores pueden seguir instrucciones paso a paso para anotar genes rápidamente y establecer relaciones ortólogas, cruciales para los estudios de genómica funcional y evolutiva._
+
+- [Notebook 04.2 - Analysis de expresión diferencial]()
+_Este cuaderno se centra en realizar un análisis de expresión diferencial utilizando el paquete DESeq2. Esta guía completa permite a los investigadores analizar datos de secuenciación de ARN de manera efectiva, identificando genes con cambios de expresión significativos en condiciones experimentales. Las instrucciones paso a paso permiten a los usuarios explorar e interpretar la expresión diferencial, ayudando en el descubrimiento de conocimientos biológicamente significativos._
+
+
+
+
+
+
+### Autoría y Agradecimientos:
+
+El material del curso de Introducción a la Transcriptómica ha sido resultado de esfuerzos colaborativos desde 2021 y ha sido empleado con éxito en numerosos cursos organizados por el Centro Avanzado de Enfermedades Crónicas - ACCDiS, la Universidad de Chile y la Universidad Tecnológica Metropolitana - UTEM. Extendemos nuestro más sincero agradecimiento a todas las personas que se enumeran a continuación, que han contribuido activamente al desarrollo y perfeccionamiento de este material a lo largo de los años. Su dedicación y experiencia han sido fundamentales para que este recurso sea valioso para la comunidad bioinformática.
+
+Apreciamos el continuo apoyo y retroalimentación de los participantes, mentores e instituciones que han hecho posible este esfuerzo. Juntos, nos esforzamos por avanzar en la comprensión y aplicación de la biología basada en datos en América Latina y el Caribe.
+
+- **PhD(c) Allan Peñaloza-Otarola**, Universidad de Chile (Chile).
+- [MSc. & PhD(c) Juan Pablo Silva](https://scholar.google.com/citations?user=02dF20IAAAAJ), Universidad de Chile (Chile).
+- [Dr. Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana - UTEM (Chile).
+- [Dr. Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), Universidad de Chile (Chile).
+- [PhD(c) Wladimir Corrales](https://scholar.google.com/citations?hl=es&user=vt3Erm4AAAAJ), Universidad de Chile (Chile).
+
+En el caso de los notebooks en Google Colab del curso de Introducción a la Quimioinformática han sido desarrollados por el [Dr. Matias Zuñiga-Bustos](https://scholar.google.com/citations?user=_BUA0-YAAAAJ&hl=es), tomando como base para algunos prácticos el material desarrollado por [Engelberger y cols](https://pubs.acs.org/doi/full/10.1021/acs.jchemed.1c00022)
+
+
+******
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
