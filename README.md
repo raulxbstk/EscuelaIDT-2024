@@ -35,7 +35,8 @@ _Este video proporciona una comprensión básica de Google Colaboratory o Google
 
 ### Módulos practicos para Quimioinformática:
 
-XXXX
+- [Comenzando con Google Colaboratorio:](https://www.youtube.com/watch?v=inN8seMm7UI)
+_Este video proporciona una comprensión básica de Google Colaboratory o Google Colab y su estructura de cuadernos, que es la plataforma informática interactiva basada en web que usaremos junto con nuestro trabajo práctico de bioinformática._
 
 
 ### Módulos practicos para Transcriptómica:
