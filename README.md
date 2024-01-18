@@ -38,6 +38,9 @@ _Este video proporciona una comprensión básica de Google Colaboratory o Google
 - [Comenzando con Google Colaboratorio:](https://www.youtube.com/watch?v=inN8seMm7UI)
 _Este video proporciona una comprensión básica de Google Colaboratory o Google Colab y su estructura de cuadernos, que es la plataforma informática interactiva basada en web que usaremos junto con nuestro trabajo práctico de bioinformática._
 
+- [Visualización Molecular Básica con VMD:](https://www.youtube.com/watch?v=qsRxPn20lIQ)
+_Este video proporciona una introducción a la visualización de archivos de proteínas obtenidos desde el servidor Protein Data Bank. Se detalla la carga de archivos, selección de regiones específicas, cambio de tipo de visualización, coloración, entre otros._
+
 
 ### Módulos practicos para Transcriptómica:
 
