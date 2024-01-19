@@ -21,7 +21,7 @@ Estos cursos comprenden 3 jornadas de 14:00 a 18:00 hrs y se realizarán en form
 A continuación, encontrará los enlaces a los vídeos previos al curso y a los cuadernos de Google Colab para los módulos prácticos.
 
 
-### Material pre-escuelta:
+### Material pre-escuela:
 
 - [Introducción a R para Biólogxs:](https://melbournebioinformatics.github.io/r-intro-biologists/intro_r_biologists.html)
 _Este curso ha sido diseñado para presentar R a los biólogos, mostrando algunos conceptos básicos y también algunas cosas poderosas que R puede hacer (cosas que serían más difíciles de hacer con Excel).._
@@ -32,14 +32,16 @@ _Este material proporciona una colección de episodios con vídeos, códigos y e
 - [Comenzando con Google Colaboratorio:](https://www.youtube.com/watch?v=inN8seMm7UI)
 _Este video proporciona una comprensión básica de Google Colaboratory o Google Colab y su estructura de cuadernos, que es la plataforma informática interactiva basada en web que usaremos junto con nuestro trabajo práctico de bioinformática._
 
+- [(Quimioinformática) Visualización Molecular Básica con VMD:](https://www.youtube.com/watch?v=qsRxPn20lIQ)
+_Este video proporciona una introducción a la visualización de archivos de proteínas obtenidos desde el servidor Protein Data Bank. Se detalla la carga de archivos, selección de regiones específicas, cambio de tipo de visualización, coloración, entre otros._
 
 ### Módulos practicos para Quimioinformática:
 
-- [Comenzando con Google Colaboratorio:](https://www.youtube.com/watch?v=inN8seMm7UI)
-_Este video proporciona una comprensión básica de Google Colaboratory o Google Colab y su estructura de cuadernos, que es la plataforma informática interactiva basada en web que usaremos junto con nuestro trabajo práctico de bioinformática._
+- [Docking Molecular:](https://www.youtube.com/watch?v=inN8seMm7UI)
+_Este cuaderno de Google Colab se presenta como una guía para la preparación de archivos de moléculas utilizando herramientas como VMD, Openbabel, Autodocktools, entre otras, para ejecutar docking molecular a través de software Autodock-Vina y Autodock-GPU. El cuaderno comprende etapas de preparación de receptores proteicos, así como también la manipulación de distintos formatos de archivos de moléculas y su transformación. _
 
-- [Visualización Molecular Básica con VMD:](https://www.youtube.com/watch?v=qsRxPn20lIQ)
-_Este video proporciona una introducción a la visualización de archivos de proteínas obtenidos desde el servidor Protein Data Bank. Se detalla la carga de archivos, selección de regiones específicas, cambio de tipo de visualización, coloración, entre otros._
+- [Dinámica Molecular Proteína-Ligando:](https://www.youtube.com/watch?v=inN8seMm7UI)
+_Este cuaderno de Google Colab se presenta como una guía para la preparación de archivos de moléculas utilizando herramientas como VMD, Openbabel, Autodocktools, entre otras, para ejecutar docking molecular a través de software Autodock-Vina y Autodock-GPU. El cuaderno comprende etapas de preparación de receptores proteicos, así como también la manipulación de distintos formatos de archivos de moléculas y su transformación. _
 
 
 ### Módulos practicos para Transcriptómica:
