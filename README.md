@@ -1,4 +1,6 @@
-![alt text](https://raw.githubusercontent.com/raulxbstk/EscuelaIDT-2024/main/Images/IDT%203.png)
+
+<img src="[https://cloud.githubusercontent.com/assets/yourgif.gif](https://raw.githubusercontent.com/raulxbstk/EscuelaIDT-2024/main/Images/IDT%203.png)" width="400" height="790">
+
 # Escuela de Verano IDT-UTEM: Introducción a la Quimioinformática y Transcriptómica
 
 Esta Escuela de Verano del Instituto Universitario de Investigación y Desarrollo TEcnológico (IDT) de la Universidad Tecnológica Metropolita (UTEM) está orientada a estudiantes de pregrado y postgrado, afines a las áreas químicas y biológicas, que deseen aprender aspectos generales de métodos computacionales relacionados a la Quimioinformática o la Transcriptómica. 
