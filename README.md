@@ -37,7 +37,7 @@ _Este video proporciona una introducción a la visualización de archivos de pro
 
 ### Módulos practicos para Quimioinformática:
 
-- [Docking Molecular:](https://www.youtube.com/watch?v=inN8seMm7UI)
+- [Docking Molecular:](https://colab.research.google.com/drive/1H7HtO3B0pE6UDIObriwGbDi3YdFzX378?usp=sharing)
 _Este cuaderno de Google Colab se presenta como una guía para la preparación de archivos de moléculas utilizando herramientas como VMD, Openbabel, Autodocktools, entre otras, para ejecutar docking molecular a través de software Autodock-Vina y Autodock-GPU. El cuaderno comprende etapas de preparación de receptores proteicos, así como también la manipulación de distintos formatos de archivos de moléculas y su transformación. _
 
 - [Dinámica Molecular Proteína-Ligando:](https://www.youtube.com/watch?v=inN8seMm7UI)
