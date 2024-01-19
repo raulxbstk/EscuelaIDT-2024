@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/raulxbstk/EscuelaIDT-2024/main/Images/IDT%203.png" width="590" height="166">
+<img src="https://raw.githubusercontent.com/raulxbstk/EscuelaIDT-2024/main/Images/IDT%203.png" width="236" height="66">
 
 # Escuela de Verano IDT-UTEM: Introducción a la Quimioinformática y Transcriptómica
 
