@@ -1,12 +1,14 @@
 # Escuela de Verano IDT-UTEM: Introducción a la Quimioinformática y Transcriptómica
 
-Esta Escuela de Verano IDT-UTEM está orientada a estudiantes de pregrado y postgrado, afines a las áreas químicas y biológicas, que deseen aprender aspectos generales de métodos computacionales relacionados a la Quimioinformática o la Transcriptómica. 
+Esta Escuela de Verano del Instituto Universitario de Investigación y Desarrollo TEcnoloógico (IDT) de la Universidad Tecnológica Metropolita (UTEM) está orientada a estudiantes de pregrado y postgrado, afines a las áreas químicas y biológicas, que deseen aprender aspectos generales de métodos computacionales relacionados a la Quimioinformática o la Transcriptómica. 
 
 En el curso de Introducción a la Quimioinformática se abordarán aspectos teóricos y prácticos de las metodologías de docking (acoplamiento molecular), Dinámica molecular clásica y QSAR.  Estas herramientas se relacionan principalmente con la evaluación de interacciones proteína-ligando y la predicción de propiedades de interés en base a descriptores moleculares. El curso será dictado por los académicos Dr. Matías Zúñiga y Dr. Juan Castillo, pertenecientes al Instituto Universitario de Investigación y Desarrollo Tecnológico (IDT-UTEM) y al programa de Doctorado en Informática Aplicada a Salud y Medio Ambiente, de la Universidad Tecnológica Metropolitana.
 
 El curso de Introducción a la Transcriptómica fue diseñado para brindar conocimientos básicos y habilidades prácticas en el análisis de datos transcriptómicos. El curso combina sesiones teóricas con ejercicios prácticos, asegurando que los asistentes adquieran un entendimiento profundo de las técnicas de análisis transcriptómico y sus aplicaciones. Es una oportunidad valiosa para mejorar la experiencia en el estudio de la expresión génica y los transcriptomas utilizando datos de secuenciación de próxima generación. El curso será dictado por el académico Dr. Raúl Arias Carrasco, perteneciente al Instituto Universitario de Investigación y Desarrollo Tecnológico (IDT-UTEM) y al programa de Doctorado en Informática Aplicada a Salud y Medio Ambiente, de la Universidad Tecnológica Metropolitana.
 
 Estos cursos comprenden 3 jornadas de 14:00 a 18:00 hrs y se realizarán en forma paralela.
+
+Los invitamos además a revisar nuestro programa de [**Doctorado en Informática Aplicada a Salud y Medio Ambiente**](https://postgrado.utem.cl/doctorado-iasma/) en donde podrán profundizar e investigar en éstas y otras áreas afines.
 
 
 ## Organizadores:
@@ -46,22 +48,20 @@ _Este cuaderno de Google Colab se presenta como una guía para la preparación d
 
 ### Módulos practicos para Transcriptómica:
 
-- [Notebook 01 - Filtrando la calidad de datos RNA-seq]():
+- [Notebook 01 - Filtrando la calidad de datos RNA-seq](https://colab.research.google.com/drive/18zRlZPG2n9-JBJcwbINkUrHgiqQ-kglV?usp=sharing):
 _Este cuaderno colaborativo guía a los investigadores en la evaluación de la calidad de los datos de secuenciación de ARN. A través de FastQC, MultiQC y Fastp, evalúa rápidamente la integridad de los datos, detecta anomalías y refina los datos para su análisis posterior. Las instrucciones paso a paso y los fragmentos de código permiten a los usuarios aplicar estas herramientas de manera eficiente, lo que garantiza una calidad sólida de los datos para diversos experimentos de secuenciación de ARN. Este recurso, dirigido a investigadores y bioinformáticos, agiliza el análisis de control de calidad y mejora la confiabilidad de los datos, vital para interpretaciones biológicas precisas._
 
-- [Notebook 02 - Reconstrucción de transcriptoma _de novo_]()
+- [Notebook 02 - Reconstrucción de transcriptoma _de novo_](https://colab.research.google.com/drive/14nvMsyOHSb438Ggr8MUjwL6LIA1Lv_Fb?usp=sharing)
  _Este cuaderno de Google Colab sirve como guía completa para la reconstrucción del transcriptoma de novo a partir de lecturas de secuenciación de ARN y muestra la metodología que utiliza SOAPdenovo-Trans. Si bien se utiliza un subconjunto de lecturas de secuenciación de Phyllomedusa Bahiana como ejemplo, este recurso aclara todos los pasos necesarios para reconstruir un transcriptoma sin depender de un genoma de referencia.._
 
-- [Notebook 03 - Reconstrucción de transcriptoma basado en genome de referencia]()
+- [Notebook 03 - Reconstrucción de transcriptoma basado en genome de referencia](https://colab.research.google.com/drive/1cUcCkCYAdp4FSjHoh2ncPmFf49L0VKdY?usp=sharing)
  _Este cuaderno de Google Colab actúa como un tutorial completo para la reconstrucción del transcriptoma basado en un genoma de referencia. Proporciona una exploración en profundidad de la metodología, empleando herramientas como Hisat2 para mapeo de lectura y samtools para manipulación de datos. Los participantes obtendrán experiencia práctica en todo el proceso, desde mapear lecturas de secuenciación hasta reconstruir transcripciones usando stringTie y, en última instancia, cuantificar los niveles de expresión de genes y transcripciones con featureCounts._
 
-- [Notebook 04.1 - Annotación Funcional]() 
+- [Notebook 04.1 - Annotación Funcional](https://colab.research.google.com/drive/1gonS9jN3SBbWyzELGVgW17ThMmjr656z?usp=sharing) 
 _Este cuaderno de Google Colab proporciona un tutorial detallado para la anotación funcional de genes utilizando la herramienta Diamond y la identificación de grupos ortólogos mediante OrthoFinder. Los investigadores pueden seguir instrucciones paso a paso para anotar genes rápidamente y establecer relaciones ortólogas, cruciales para los estudios de genómica funcional y evolutiva._
 
-- [Notebook 04.2 - Analysis de expresión diferencial]()
+- [Notebook 04.2 - Analysis de expresión diferencial](https://colab.research.google.com/drive/1EXkxU9_m417-16R3LQHQGJ_t-6Bp9jJl?usp=sharing)
 _Este cuaderno se centra en realizar un análisis de expresión diferencial utilizando el paquete DESeq2. Esta guía completa permite a los investigadores analizar datos de secuenciación de ARN de manera efectiva, identificando genes con cambios de expresión significativos en condiciones experimentales. Las instrucciones paso a paso permiten a los usuarios explorar e interpretar la expresión diferencial, ayudando en el descubrimiento de conocimientos biológicamente significativos._
-
-
 
 
 
