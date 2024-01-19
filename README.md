@@ -1,6 +1,6 @@
 # Escuela de Verano IDT-UTEM: Introducción a la Quimioinformática y Transcriptómica
 
-Esta Escuela de Verano del Instituto Universitario de Investigación y Desarrollo TEcnoloógico (IDT) de la Universidad Tecnológica Metropolita (UTEM) está orientada a estudiantes de pregrado y postgrado, afines a las áreas químicas y biológicas, que deseen aprender aspectos generales de métodos computacionales relacionados a la Quimioinformática o la Transcriptómica. 
+Esta Escuela de Verano del Instituto Universitario de Investigación y Desarrollo TEcnológico (IDT) de la Universidad Tecnológica Metropolita (UTEM) está orientada a estudiantes de pregrado y postgrado, afines a las áreas químicas y biológicas, que deseen aprender aspectos generales de métodos computacionales relacionados a la Quimioinformática o la Transcriptómica. 
 
 En el curso de Introducción a la Quimioinformática se abordarán aspectos teóricos y prácticos de las metodologías de docking (acoplamiento molecular), Dinámica molecular clásica y QSAR.  Estas herramientas se relacionan principalmente con la evaluación de interacciones proteína-ligando y la predicción de propiedades de interés en base a descriptores moleculares. El curso será dictado por los académicos Dr. Matías Zúñiga y Dr. Juan Castillo, pertenecientes al Instituto Universitario de Investigación y Desarrollo Tecnológico (IDT-UTEM) y al programa de Doctorado en Informática Aplicada a Salud y Medio Ambiente, de la Universidad Tecnológica Metropolitana.
 
@@ -42,7 +42,7 @@ _Este video proporciona una introducción a la visualización de archivos de pro
 - [Docking Molecular:](https://colab.research.google.com/drive/1H7HtO3B0pE6UDIObriwGbDi3YdFzX378?usp=sharing)
 _Este cuaderno de Google Colab se presenta como una guía para la preparación de archivos de macromoléculas y moléculas pequeñas, utilizando herramientas como CHARMM-GUI, VMD, Openbabel, Autodocktools, entre otras, para ejecutar docking molecular a través de software Autodock-Vina y Autodock-GPU. El cuaderno comprende etapas de preparación de receptores proteicos, así como también la manipulación de distintos formatos de archivos de moléculas y su transformación. _
 
-- [Dinámica Molecular Proteína-Ligando:](https://www.youtube.com/watch?v=inN8seMm7UI)
+- [Dinámica Molecular Proteína-Ligando:](https://)
 _Este cuaderno de Google Colab se presenta como una guía para la preparación de archivos de macromoléculas y moléculas pequeñas, utilizando herramientas como CHARMM-GUI, VMD, Openbabel, entre otras, para ejecutar dinámica molecular clásica a través del software NAMD. El cuaderno comprende etapas de preparación de receptores proteicos en el campo de fuerza CHARMM y ligandos utilizando el campo de fuerza CGENFF mediante CHARMM-GUI. Por otro lado se incorporan procedimientos para agregar una caja de solvatación explícita (TIP3P) y neutralización del sistema vía adición de iones Na/Cl. Finalmente se incluye la preparación de los archivos de entrada para los procesos de minimización, equilibrado NVT y producción NPT con su detalle respectivo._
 
 
