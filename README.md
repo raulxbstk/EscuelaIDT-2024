@@ -38,7 +38,7 @@ _Este material proporciona una colección de episodios con vídeos, códigos y e
 _Este video proporciona una comprensión básica de Google Colaboratory o Google Colab y su estructura de cuadernos, que es la plataforma informática interactiva basada en web que usaremos junto con nuestro trabajo práctico de bioinformática._
 
 - [(Quimioinformática) Visualización Molecular Básica con VMD:](https://www.youtube.com/watch?v=qsRxPn20lIQ)
-_Este video proporciona una introducción a la visualización de archivos de proteínas obtenidos desde el servidor Protein Data Bank. Se detalla la carga de archivos, selección de regiones específicas, cambio de tipo de visualización, coloración, entre otros._
+_Este video proporciona una introducción a la visualización 3D de archivos de proteínas obtenidos desde el servidor Protein Data Bank. Se detalla la carga de archivos, selección de regiones específicas, cambio de tipo de visualización, coloración, entre otros._
 
 ### Módulos practicos para Quimioinformática:
 
