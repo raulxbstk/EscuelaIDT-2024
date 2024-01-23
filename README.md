@@ -74,8 +74,10 @@ _Este cuaderno se centra en realizar un análisis de expresión diferencial util
 - [Reconstrucción de Transcriptomas](https://drive.google.com/file/d/1Rhz8HH3BSaSAhA4qfLlx25sCeIQsOj3J/view?usp=sharing)
 - [Cuantificación y expresión diferencial](https://drive.google.com/file/d/1Viv7af-kX2Gun1kGMEi2jJO_VpiKpWXW/view?usp=sharing)
   
+#### Presentaciones curso Quimioinformática:
 
-
+- [Manejo de Archivos de Moléculas y Docking](https://drive.google.com/file/d/1ny7_Cww4L94S2Vsua6ymscQbzM5MYXYw/view?usp=drive_link)
+- [Dinámica Molecular Proteína-Ligando]()
 
 ### Autoría y Agradecimientos:
 
