@@ -43,7 +43,7 @@ _Este video proporciona una introducción a la visualización 3D de archivos de 
 ### Módulos practicos para Quimioinformática:
 
 - [Docking Molecular:](https://colab.research.google.com/drive/1H7HtO3B0pE6UDIObriwGbDi3YdFzX378?usp=sharing)
-_Este cuaderno de Google Colab se presenta como una guía para la preparación de archivos de macromoléculas y moléculas pequeñas, utilizando herramientas como CHARMM-GUI, VMD, Openbabel, Autodocktools, entre otras, para ejecutar docking molecular a través de software Autodock-Vina y Autodock-GPU. El cuaderno comprende etapas de preparación de receptores proteicos, así como también la manipulación de distintos formatos de archivos de moléculas y su transformación. _
+_Este cuaderno de Google Colab se presenta como una guía para la preparación de archivos de macromoléculas y moléculas pequeñas, utilizando herramientas como CHARMM-GUI, VMD, Openbabel, Autodocktools, entre otras, para ejecutar docking molecular a través de software Autodock-Vina y Autodock-GPU. El cuaderno comprende etapas de preparación de receptores proteicos, así como también la manipulación de distintos formatos de archivos de moléculas y su transformación._
 
 - [Dinámica Molecular Proteína-Ligando:](https://colab.research.google.com/drive/1YSMIjzFkyGl_XXG7520BwulQGddg8SpW?usp=sharing)
 _Este cuaderno de Google Colab se presenta como una guía para la preparación de archivos de macromoléculas y moléculas pequeñas, utilizando herramientas como CHARMM-GUI, VMD, Openbabel, entre otras, para ejecutar dinámica molecular clásica a través del software NAMD. El cuaderno comprende etapas de preparación de receptores proteicos en el campo de fuerza CHARMM y ligandos utilizando el campo de fuerza CGENFF mediante CHARMM-GUI. Por otro lado se incorporan procedimientos para agregar una caja de solvatación explícita (TIP3P) y neutralización del sistema vía adición de iones Na/Cl. Finalmente se incluye la preparación de los archivos de entrada para los procesos de minimización, equilibrado NVT y producción NPT con su detalle respectivo._
@@ -66,6 +66,14 @@ _Este cuaderno de Google Colab proporciona un tutorial detallado para la anotaci
 - [Notebook 04.2 - Analysis de expresión diferencial](https://colab.research.google.com/drive/1EXkxU9_m417-16R3LQHQGJ_t-6Bp9jJl?usp=sharing)
 _Este cuaderno se centra en realizar un análisis de expresión diferencial utilizando el paquete DESeq2. Esta guía completa permite a los investigadores analizar datos de secuenciación de ARN de manera efectiva, identificando genes con cambios de expresión significativos en condiciones experimentales. Las instrucciones paso a paso permiten a los usuarios explorar e interpretar la expresión diferencial, ayudando en el descubrimiento de conocimientos biológicamente significativos._
 
+#### Presentaciones curso Transcriptómica:
+
+- [Bienvenida al curso](https://drive.google.com/file/d/1AyUqi_nkdgKJbfyjex9AWMS_c0_CLvrk/view?usp=drive_link)
+- [Complejidad Transcripcional](https://drive.google.com/file/d/1x6YHDfdweENVdCq1d24m4FtmK5P77n9m/view?usp=sharing)
+- [Métodos de secuenciación](https://drive.google.com/file/d/1RgxGSVALRQbxAfTrQte4Aek5Xbrta-i7/view?usp=sharing)
+- [Reconstrucción de Transcriptomas](https://drive.google.com/file/d/1Rhz8HH3BSaSAhA4qfLlx25sCeIQsOj3J/view?usp=sharing)
+- [Cuantificación y expresión diferencial](https://drive.google.com/file/d/1Viv7af-kX2Gun1kGMEi2jJO_VpiKpWXW/view?usp=sharing)
+  
 
 
 
