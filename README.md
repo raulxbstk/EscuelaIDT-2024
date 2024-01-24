@@ -48,6 +48,8 @@ _Este cuaderno de Google Colab se presenta como una guía para la preparación d
 - [Dinámica Molecular Proteína-Ligando:](https://colab.research.google.com/drive/1YSMIjzFkyGl_XXG7520BwulQGddg8SpW?usp=sharing)
 _Este cuaderno de Google Colab se presenta como una guía para la preparación de archivos de macromoléculas y moléculas pequeñas, utilizando herramientas como CHARMM-GUI, VMD, Openbabel, entre otras, para ejecutar dinámica molecular clásica a través del software NAMD. El cuaderno comprende etapas de preparación de receptores proteicos en el campo de fuerza CHARMM y ligandos utilizando el campo de fuerza CGENFF mediante CHARMM-GUI. Por otro lado se incorporan procedimientos para agregar una caja de solvatación explícita (TIP3P) y neutralización del sistema vía adición de iones Na/Cl. Finalmente se incluye la preparación de los archivos de entrada para los procesos de minimización, equilibrado NVT y producción NPT con su detalle respectivo._
 
+- [Relación cuantitativa estructura-actividad (Quantitative structure-activity relationship, QSAR)](https://drive.google.com/drive/folders/1CIf_1hinSwKwGmmzV5LHUOxBrbXpTeXE?usp=drive_link)
+_Descripcion: Aqui encontraremos materiales para realizar la parte practica de la clase correspondiente a los estudios QSAR. Tendremos dos programas libres que corren sobre java (instalan su propio entorno si hace falta) uno para el cálculo de los de los descriptores moleculares y el otro para el desarrollo de modelos QSAR. Además en la carpeta tendremos la base de datos de los compuestos que emplearemos como ejemplo en la parte práctica del curso._
 
 ### Módulos practicos para Transcriptómica:
 
