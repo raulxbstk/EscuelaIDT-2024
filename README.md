@@ -79,7 +79,7 @@ _Este cuaderno se centra en realizar un análisis de expresión diferencial util
 #### Presentaciones curso Quimioinformática:
 
 - [Manejo de Archivos de Moléculas y Docking](https://drive.google.com/file/d/1ny7_Cww4L94S2Vsua6ymscQbzM5MYXYw/view?usp=drive_link)
-- [Dinámica Molecular Proteína-Ligando]()
+- [Dinámica Molecular Proteína-Ligando](https://drive.google.com/file/d/1dieoz53H7NUkybiTY52wqh8UX8tA49tJ/view?usp=sharing)
 
 ### Autoría y Agradecimientos:
 
